@@ -11,7 +11,7 @@
     ],
     "require": {
         "netgen/layouts-core": "~1.4.9",
-        "netgen/content-browser-ezplatform": "^1.4",
+        "se7enxweb/content-browser-ezplatform": "^1.4",
         "se7enxweb/ezplatform-admin-ui": "^1.5 || ^2.3",
         "se7enxweb/ezplatform-http-cache": "^0.9.5 || ^1.0 || ^2.3"
     },
