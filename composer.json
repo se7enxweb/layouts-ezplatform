@@ -1,5 +1,5 @@
 {
-    "name": "netgen/layouts-ezplatform",
+    "name": "se7enxweb/layouts-ezplatform",
     "description": "Netgen Layouts & eZ Platform integration",
     "license": "GPL-2.0-only",
     "type": "symfony-bundle",
@@ -12,8 +12,8 @@
     "require": {
         "netgen/layouts-core": "~1.4.9",
         "netgen/content-browser-ezplatform": "^1.4",
-        "ezsystems/ezplatform-admin-ui": "^1.5 || ^2.3",
-        "ezsystems/ezplatform-http-cache": "^1.0 || ^2.3"
+        "se7enxweb/ezplatform-admin-ui": "^1.5 || ^2.3",
+        "se7enxweb/ezplatform-http-cache": "^1.0 || ^2.3"
     },
     "require-dev": {
         "netgen/layouts-coding-standard": "^2.0",
@@ -26,7 +26,7 @@
         "phpstan/phpstan-phpunit": "^2.0",
         "matthiasnoback/symfony-dependency-injection-test": "^4.2",
         "matthiasnoback/symfony-config-test": "^4.2",
-        "netgen/tagsbundle": "^3.4 || ^4.0"
+        "se7enxweb/tagsbundle": "^3.4 || ^4.0"
     },
     "config": {
         "allow-plugins": false
